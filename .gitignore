@@ -1,2 +1,6 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+#Mac file
+.DS_Store
+
